@@ -1,6 +1,6 @@
 {
     "name": "@ns-private/react-lifecycle-component",
-    "version": "4.0.0",
+    "version": "4.1.0",
     "description": "A higher order component that accepts lifecycle hook functions as props",
     "main": "lib/index.js",
     "scripts": {
