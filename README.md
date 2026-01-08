@@ -1,11 +1,11 @@
-# react-lifecycle-component
+# @ns-private/react-lifecycle-component
 
 A higher order component that accepts lifecycle hook functions as props
 
 Allows you to wrap pure functional components so that you can take advantage of lifecycle hooks without having to create a new HOC each time to wrap your component.
 
 ```
-npm install react-lifecycle-component --save
+npm install @ns-private/react-lifecycle-component --save
 ```
 
 ## Problem

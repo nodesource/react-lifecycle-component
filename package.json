@@ -1,5 +1,5 @@
 {
-    "name": "react-lifecycle-component",
+    "name": "@ns-private/react-lifecycle-component",
     "version": "4.0.0",
     "description": "A higher order component that accepts lifecycle hook functions as props",
     "main": "lib/index.js",
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JamieDixon/react-lifecycle-component.git"
+        "url": "git+https://github.com/nodesource/react-lifecycle-component.git"
     },
     "author": "Jamie Dixon",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/JamieDixon/react-lifecycle-component/issues"
+        "url": "https://github.com/nodesource/react-lifecycle-component/issues"
     },
-    "homepage": "https://github.com/JamieDixon/react-lifecycle-component#readme",
+    "homepage": "https://github.com/nodesource/react-lifecycle-component#readme",
     "devDependencies": {
         "babel-cli": "^6.10.1",
         "babel-jest": "^18.0.0",
